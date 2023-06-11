@@ -13,7 +13,7 @@ Homework02-11-06-2023
 [images](/images/):
 
 [images](/images/):
-![Logo(pictures/logo.png)
+![Logo](images/logo.png)
 
 :smile:
 
